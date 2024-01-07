@@ -15,6 +15,18 @@ gallery:
     image_path: /assets/images/prof.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
+  - url: /assets/images/aa.png
+    image_path: /assets/images/aa.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/images/bb.png
+    image_path: /assets/images/bb.png
+    alt: "placeholder image 4"
+    title: "Image 4 title caption"
+  - url: /assets/images/feractal.png
+    image_path: /assets/images/feractal.png
+    alt: "placeholder image 5"
+    title: "Image 5 title caption"
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
