@@ -28,9 +28,9 @@ title: "فراکتال"
 
  <pre style="text-align:left  font-family:b-nazanin font-size :larger ">
 <pre style="text-align:right font-size :larger ">
- <a href="C:\git\FC02031\S8\square.py"><img src="/assets/images/Screenshot (1).png" alt=""></a>
+ <a href="C:\git\FC02031\S8\square.py"><img src="/assets/images/aa.png" alt=""></a>
 
-     <a href="C:\git\FC02031\s7\main.py"><img src="/assets/images/Screenshot (4).png" alt="">  </a>
+     <a href="C:\git\FC02031\s7\main.py"><img src="/assets/images/bb.png" alt="">  </a>
 
  <a href="C:\git\FC02031\s7\tr.py"><img src="/assets/images/fractal.png" alt=""></a>
  
