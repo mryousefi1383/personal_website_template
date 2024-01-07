@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "محمد رضا یوسفی"
+title                    :  "محمدرضا یوسفی"
 title_separator          : "-"
-name                     : "Poorang" 
+name                     : "mohammad" 
 description              : "Welcome to my web site."
 url                      : https://mryousefi1383.github.io/
 baseurl                  : #the subpath of your site, e.g. "/blog"
@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : sauleh_e
+  username               :
 facebook:
-  username               : sauleh.eetemadi
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -107,17 +107,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Khargooshe Naziloo"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : I'm the best student.
+  name             : "mryosefi"
+  avatar           : "/assets/images/prof.jpg"
+  bio              : "computer engineering student"
   location         : "تهران"
-  email            : sauleh@gmail.com
-  twitter: sauleh_e
-  linkedin: 
-  google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
-  links:
+  email            : mryousefi123456@gmail.com
+  google_scholar: 
+  github: mryousefi83
+  instagram: mryousefi13833
+  links: 
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
@@ -303,3 +301,5 @@ defaults:
       comments: # true
       share: true
       related: true
+
+
