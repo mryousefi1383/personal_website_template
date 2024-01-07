@@ -15,8 +15,8 @@ gallery:
     image_path: /assets/images/prof.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
-  - url: /assets/images/aa.png
-    image_path: /assets/images/aa.png
+  - url: /assets/images/fraaa.jpg
+    image_path: /assets/images/fraaa.jpg
     alt: "placeholder image 3"
     title: "Image 3 title caption"
   - url: /assets/images/bb.png

@@ -26,12 +26,12 @@ title: "فراکتال"
 
      <a href="C:\git\FC02031\s7\main.py"><img src="/assets/images/bb.png" alt="">  </a>
 
- <a href="C:\git\FC02031\s7\tr.py"><img src="/assets/images/fractal.png" alt=""></a>
+ <a href="C:\git\FC02031\s7\tr.py"><img src="/assets/images/feractal.png" alt=""></a>
  
  <a href="C:\git\FC02031\s8\jungl.py"><img src="/assets/images/jungle.png" alt=""></a>
- اگه مختصرا بگم برا 2 فراکتال اول چه اتفاقی میفته
+  اگه مختصرا بگم برا 2 فراکتال اول چه اتفاقی میفته
   این باید اشاره کنم که در ابتدا
-   جزئی ترین بخش فراکتال
+  جزئی ترین بخش فراکتال
    که مثلث یا مربع کوچک هست رو رسم میکنه
   و بعدش شکل کامل و کامل تر میشه 
   . درخت هم تقریبا همینطور کار می کنه
