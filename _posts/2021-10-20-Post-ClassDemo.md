@@ -20,8 +20,6 @@ title: "فراکتال"
    
   شاید براتون سوال باشه که چقدر این وقت گرفته تا به این خوشگلی در بیاد ولی وقتی کل کدی که زدم ببینید متوجه میشید که خوتونم هر موقع شروع به یادگیری کنید به سرعت بهش خواهید رسید 
  پس بریم که ببینیم
-
-
  <pre style="text-align:left  font-family:b-nazanin font-size :larger ">
 <pre style="text-align:right font-size :larger ">
  <a href="C:\git\FC02031\S8\square.py"><img src="/assets/images/aa.png" alt=""></a>
@@ -31,10 +29,6 @@ title: "فراکتال"
  <a href="C:\git\FC02031\s7\tr.py"><img src="/assets/images/fractal.png" alt=""></a>
  
  <a href="C:\git\FC02031\s8\jungl.py"><img src="/assets/images/jungle.png" alt=""></a>
-
-
- 
-
  اگه مختصرا بگم برا 2 فراکتال اول چه اتفاقی میفته
   این باید اشاره کنم که در ابتدا
    جزئی ترین بخش فراکتال
