@@ -1,23 +1,52 @@
 ---
 layout: posts
-title: مصاحبه با آقای بیات‌خانی
+title: "فراکتال"
 ---
 
-## This is my team at Microsoft
-People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
+-<html>
+<head>
+    <title>فراکتال</title>
+</head>
+<h1 style="text-align: center font-family:b-nazanin;color:gold background-color:black ">فرکتال</h1>
+<br>    
+<body bgcolor="gold">
+    
+</body>
+<pre style="text-align:right; font-family:b-nazanin;">
+    خب اول از همه بریم که یه تعریف کوچیک از فرکتال ها با هم بخونیم
+    .فرکتال ساختاری هندسی است که با بزرگ کردن هر بخش از این ساختار به نسبت معین، همان ساختار نخستین به دست آید
+ 
+    :برا اینکه درک بهتری از فرکتال پیدا کنیم بریم با هم یه فرکتال زیبا ببینیم 
+  
+ <img src="/assets/images/fraaa.jpg" alt="">
 
-[my favorite website](http://www.google.com)
+ (: بنظرم وقتشه برم سراغ اصل مطلب که اونم فراکتال خودم 
+   
+  شاید براتون سوال باشه که چقدر این وقت گرفته تا به این خوشگلی در بیاد ولی وقتی کل کدی که زدم ببینید متوجه میشید که خوتونم هر موقع شروع به یادگیری کنید به سرعت بهش خواهید رسید 
+ پس بریم که ببینیم
 
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
+
+ <pre style="text-align:left  font-family:b-nazanin font-size :larger ">
+<pre style="text-align:right font-size :larger ">
+ <a href="C:\git\FC02031\S8\square.py"><img src="/assets/images/Screenshot (1).png" alt=""></a>
+
+     <a href="C:\git\FC02031\s7\main.py"><img src="/assets/images/Screenshot (4).png" alt="">  </a>
+
+ <a href="C:\git\FC02031\s7\tr.py"><img src="/assets/images/fractal.png" alt=""></a>
+ 
+ <a href="C:\git\FC02031\s8\jungl.py"><img src="/assets/images/jungle.png" alt=""></a>
 
 
+ 
 
-![alt text](../assets/images/grouppic.jpg "Team Picture")
-
----
-**Test**: This is atest
+ اگه مختصرا بگم برا 2 فراکتال اول چه اتفاقی میفته
+  این باید اشاره کنم که در ابتدا
+   جزئی ترین بخش فراکتال
+   که مثلث یا مربع کوچک هست رو رسم میکنه
+  و بعدش شکل کامل و کامل تر میشه 
+  . درخت هم تقریبا همینطور کار می کنه
+   فقط اولش تنه رو میکشه
+   و بعد میره سراغ قسمت های بعدی که شاخه و برگه
+    پس برای جنگل هم همین رو میشه تعمیم داد
+  . که میاد در ابتدایه درخت رسم میکنه
+   و بعد درخت ها رو در صفحه افزایش میده

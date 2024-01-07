@@ -1,11 +1,9 @@
 ---
 layout: posts
-title: چه هوای خوبی
+title: چه زندگی عجبیه
 ---
 
-- We wrote some code
-- We built our website
-- We pushed
+- in this world we must be kind but ...
 
 # this is a header
 

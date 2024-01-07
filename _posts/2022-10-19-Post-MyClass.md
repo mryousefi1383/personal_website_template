@@ -1,10 +1,9 @@
 ---
 layout: posts
-title: در کلاس چه گذشت
+title: یه ذره از خودم 
 ---
 
-- We wrote some code
-- We built our website
-- We pushed
+-  i am studing 18 years old
+- i study at the university of scince and technology
 
 # this is a header
