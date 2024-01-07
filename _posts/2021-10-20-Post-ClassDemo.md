@@ -2,9 +2,7 @@
 layout: posts
 title: "فراکتال"
 ---
-</head>
-<h1 style="text-align: center font-family:b-nazanin;color:gold background-color:black ">فرکتال</h1>
-<br>    
+
 <body bgcolor="gold">
     
 </body>
