@@ -20,13 +20,9 @@ title: "فراکتال"
  پس بریم که ببینیم
  <pre style="text-align:left  font-family:b-nazanin font-size :larger ">
 <pre style="text-align:right font-size :larger ">
- <a href="C:\git\FC02031\S8\square.py"><img src="/assets/images/aa.png" alt=""></a>
-
-     <a href="C:\git\FC02031\s7\main.py"><img src="/assets/images/bb.png" alt="">  </a>
-
- <a href="C:\git\FC02031\s7\tr.py"><img src="/assets/images/feractal.png" alt=""></a>
- 
- <a href="C:\git\FC02031\s8\jungl.py"><img src="/assets/images/jungle.png" alt=""></a>
+<img src="/assets/images/123456.png" alt="">
+<img src="/assets/images/12345.png" alt=""> 
+<img src="/assets/images/feractal.png" alt="">
   اگه مختصرا بگم برا 2 فراکتال اول چه اتفاقی میفته
   این باید اشاره کنم که در ابتدا
   جزئی ترین بخش فراکتال
