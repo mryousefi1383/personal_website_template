@@ -27,6 +27,10 @@ gallery:
     image_path: /assets/images/feractal.png
     alt: "placeholder image 5"
     title: "Image 5 title caption"
+  - url: /assets/images/1234.jpg
+    image_path: /assets/images/1234.jpg
+    alt: "placeholder image 5"
+    title: "Image 5 title caption"
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
