@@ -9,8 +9,6 @@ comments: false
 ---
 
 
-* [Favorite Author](http://myfavoritauthor.com)
-* [Places I want to visit](http://iwanttovisit.com)
-* [My home city](http://homecity.com)
-* [My university](http://myuniversity.com)
+* [Favorite Author](https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D8%B6%D9%84_%D9%86%D8%B8%D8%B1%DB%8C)
+
 
