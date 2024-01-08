@@ -20,7 +20,7 @@ gallery:
     alt: "placeholder image 5"
     title: "Image 5 title caption"
   - url: /assets/images/bb.png
-    image_path: /assets/images/bb.png
+    image_path: /assets/images/123456.png
     alt: "placeholder image 4"
     title: "Image 4 title caption"
   - url: /assets/images/feractal.png

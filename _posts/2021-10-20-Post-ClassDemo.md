@@ -14,15 +14,15 @@ title: "فراکتال"
   
  <img src="/assets/images/fraaa.jpg" alt="">
 
- (: بنظرم وقتشه برم سراغ اصل مطلب که اونم فراکتال خودم 
+ (:بنظرم وقتشه برم سراغ اصل مطلب که اونم فراکتال خودم 
    
   شاید براتون سوال باشه که چقدر این وقت گرفته تا به این خوشگلی در بیاد ولی وقتی کل کدی که زدم ببینید متوجه میشید که خوتونم هر موقع شروع به یادگیری کنید به سرعت بهش خواهید رسید 
  پس بریم که ببینیم
  <pre style="text-align:left  font-family:b-nazanin font-size :larger ">
-<pre style="text-align:right font-size :larger ">
-<img src="/assets/images/123456.png" alt="">
-<img src="/assets/images/12345.png" alt=""> 
-<img src="/assets/images/feractal.png" alt="">
+ <pre style="text-align:right font-size :larger ">
+ <img src="/assets/images/123456.png" alt="">
+ <img src="/assets/images/12345.png" alt=""> 
+ <img src="/assets/images/feractal.png" alt="">
   اگه مختصرا بگم برا 2 فراکتال اول چه اتفاقی میفته
   این باید اشاره کنم که در ابتدا
   جزئی ترین بخش فراکتال
